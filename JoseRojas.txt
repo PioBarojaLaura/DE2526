@@ -1,3 +1,2 @@
 new line added
 another new line
-This change will be reverted soon
